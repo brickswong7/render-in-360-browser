@@ -3,13 +3,20 @@
 
 
 
-很多网站上都会有<meta http-equiv="X-UA-Compatible" content="IE=edge，chrome=1"> 这样一段代码
+很多网站上都会有这样一段代码
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge，chrome=1">
+
+
 
 这句话的意思是 采用高版本的ie引擎
 
 
 
 还有一个是
+
+
+
 <meta name="renderer" content="webkit|ie-comp|ie-stand">
 
 这样直接启动渲染引擎 。
