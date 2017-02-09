@@ -5,7 +5,12 @@
 
 很多网站上都会有这样一段代码
 
-<meta http-equiv="X-UA-Compatible" content="IE=edge，chrome=1">
+meta 
+
+http-equiv="X-UA-Compatible" 
+
+
+content="IE=edge，chrome=1"
 
 
 
@@ -17,6 +22,11 @@
 
 
 
-<meta name="renderer" content="webkit|ie-comp|ie-stand">
+meta 
+
+name="renderer" 
+
+
+content="webkit|ie-comp|ie-stand" 
 
 这样直接启动渲染引擎 。
